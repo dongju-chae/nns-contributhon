@@ -1,3 +1,7 @@
+diff --git a/.github/CODEOWNERS b/.github/CODEOWNERS      
+index 005c640..587309c 100644                             
+--- a/.github/CODEOWNERS                                  
++++ b/.github/CODEOWNERS  
 # The below describes the committers for this repository.
 
-* @dongju-chae
+* @dongju-chae @suehdn.
